@@ -1,0 +1,4 @@
+Enter the number of processes, resources, and edges:
+Enter process labels (lowercase a-z):
+Enter resource labels (uppercase A-Z):
+Enter edge (source and destination): Enter edge (source and destination): Enter edge (source and destination): Enter edge (source and destination): Deadlock detected (cycle exists).

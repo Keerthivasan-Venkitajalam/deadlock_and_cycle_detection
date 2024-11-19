@@ -1,0 +1,14 @@
+9 4 11
+a b c d e f g h i
+U V W Z
+a U 3
+U b 2
+b V 4
+V c 1
+d W 2
+W e 3
+c Z 5
+a W 2
+V i 3
+b Z 4
+Z a 4

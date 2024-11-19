@@ -1,0 +1,18 @@
+Enter number of processes, resources, and edges: Enter process labels: Enter resource labels: Enter edges (source destination weight):
+Detected cycle: a U b Z a
+Removing edge: U -> b (Weight: 2)
+
+Updated graph after removing edges:
+a -> W(2) -> U(3) -> NULL
+b -> Z(4) -> V(4) -> NULL
+c -> Z(5) -> NULL
+d -> W(2) -> NULL
+e -> NULL
+f -> NULL
+g -> NULL
+h -> NULL
+i -> NULL
+U -> NULL
+V -> i(3) -> c(1) -> NULL
+W -> e(3) -> NULL
+Z -> a(4) -> NULL

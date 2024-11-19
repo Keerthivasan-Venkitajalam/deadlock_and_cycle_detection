@@ -1,0 +1,18 @@
+15 5 15
+a b c d e f g h i j k l m n o
+R S T U V
+a R 1
+b S 2
+c T 3
+d U 4
+e V 5
+f R 2
+g S 3
+h T 4
+i U 5
+j V 1
+R k 1
+S l 2
+T m 3
+U n 4
+V o 5

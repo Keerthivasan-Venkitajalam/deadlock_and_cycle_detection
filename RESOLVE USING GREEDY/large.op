@@ -1,0 +1,23 @@
+Enter number of processes, resources, and edges: Enter process labels: Enter resource labels: Enter edges (source destination weight):
+
+Updated graph after removing edges:
+a -> R(1) -> NULL
+b -> S(2) -> NULL
+c -> T(3) -> NULL
+d -> U(4) -> NULL
+e -> V(5) -> NULL
+f -> R(2) -> NULL
+g -> S(3) -> NULL
+h -> T(4) -> NULL
+i -> U(5) -> NULL
+j -> V(1) -> NULL
+k -> NULL
+l -> NULL
+m -> NULL
+n -> NULL
+o -> NULL
+R -> k(1) -> NULL
+S -> l(2) -> NULL
+T -> m(3) -> NULL
+U -> n(4) -> NULL
+V -> o(5) -> NULL

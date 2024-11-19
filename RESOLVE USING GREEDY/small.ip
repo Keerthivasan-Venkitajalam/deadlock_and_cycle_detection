@@ -1,0 +1,11 @@
+5 3 8
+A B C D E
+R S T
+A R 2
+R B 3
+B S 1
+S C 4
+C T 2
+T D 3
+D R 1
+E S 2
